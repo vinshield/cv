@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  margin-left: 0;
+}
+
+.first-container {
+  background-color: #dbedf3;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 380px;
+  top: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.mountain {
+  vertical-align: bottom;
+}
